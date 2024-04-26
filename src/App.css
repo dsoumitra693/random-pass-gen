@@ -50,3 +50,8 @@ input{
   display: flex;
   align-items: center;
 }
+
+.secondary{
+  padding: 0;
+  color: black;
+}
